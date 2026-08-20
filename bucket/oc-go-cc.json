@@ -1,16 +1,16 @@
 {
-    "version": "0.6.2",
+    "version": "0.6.3",
     "description": "Proxy Claude Code requests to OpenCode Go API",
     "homepage": "https://github.com/routatic/proxy",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/routatic/proxy/releases/download/v0.6.2/routatic-proxy_windows-amd64.exe",
-            "hash": "fd843edd89ff1c5deda4739dd2456b1045931bd6e1988302352ee08233c9f6bc"
+            "url": "https://github.com/routatic/proxy/releases/download/v0.6.3/routatic-proxy_windows-amd64.exe",
+            "hash": "f38ba57a56a5f6ce51c064549458ef2b8f2cfeb8b1d0d0f477d45dc2cbb305d0"
         },
         "arm64": {
-            "url": "https://github.com/routatic/proxy/releases/download/v0.6.2/routatic-proxy_windows-arm64.exe",
-            "hash": "b59162a1cb2472e9124c42cde4931b4f0c8100261759003a20fd5eaf755bee75"
+            "url": "https://github.com/routatic/proxy/releases/download/v0.6.3/routatic-proxy_windows-arm64.exe",
+            "hash": "6acee5aaeda568599d0db46e239bf6ce874d603b475e7c2b3a65f8b7224a258f"
         }
     },
     "bin": [
